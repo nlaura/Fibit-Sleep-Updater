@@ -15,6 +15,6 @@ Just go to this page: [CLICK HERE](https://nlaura.github.io/Fibit-Sleep-Updater/
 
 2. Go to "Log" and choose "Sleep" (now you should be able to see detailed information about your last night sleep)
 
-3. Click on the bookmarklet on the bookmark toolbar
+3. Click on the "Sleep Update" bookmarklet on the bookmark toolbar
 
 4. Done! :)
