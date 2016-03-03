@@ -7,29 +7,8 @@
 It substracts or adds a minute to the time you left bed and saves it automatically without you having to click or do anything.
 
 ###How to install
-**For Chrome users:**
 
-1. Right-click on the bookmarks toolbar
-
-2. Select "Add page..."
-
-3. Insert a prefered name for your bookmark to the "Name:" input field or just leave it empty
-
-4. Copy and paste the code from the "Fitbit_Sleep_Updater.js" file to the "URL:" input field
-
-5. Click "Save"
-
-**For Firefox users:**
-
-1. Right-click on the bookmarks toolbar
-
-2. Select "New Bookmark..."
-
-3. Insert a prefered name for your bookmark to the "Name:" input field or just leave it empty
-
-4. Copy and paste the code from the "Fitbit_Sleep_Updater.js" file to the "Location:" input field
-
-5. Click "Add"
+Just go to this page: [CLICK HERE](https://nlaura.github.io/Fibit-Sleep-Updater/).
 
 ###How to use
 1. Log in to fitbit.com
