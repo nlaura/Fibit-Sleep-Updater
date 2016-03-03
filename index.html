@@ -5,19 +5,6 @@
     <title>Fibit Sleep Updater</title>
   </head>
   <body>
-    <a href="javascript:(function(){
-var leftBedMinutes = document.getElementsByName('leftBedMinutes')[1];
-var v = leftBedMinutes.value;
-
-if(v == 59){
-	leftBedMinutes.value=parseInt(v)-1;
-} else {
-	leftBedMinutes.value=parseInt(v)+1;
-}
-
-var id = jQuery('.edit').attr('id').split('.')[1];
-fitbit.app.sleep.updateSleepRecord(id)
-
-})();">Sleep Update</a> <- Click and drag this to your bookmark toolbar
+    <a href="javascript:(function(){%20var%20leftBedMinutes%20=%20document.getElementsByName('leftBedMinutes')[1];%20var%20v%20=%20leftBedMinutes.value;%20%20if(v%20==%2059){%20leftBedMinutes.value=parseInt(v)-1;%20}%20else%20{%20leftBedMinutes.value=parseInt(v)+1;%20}%20%20var%20id%20=%20jQuery('.edit').attr('id').split('.')[1];%20%20fitbit.app.sleep.updateSleepRecord(id)%20%20})();">Sleep Update</a> <- Click and drag this to your bookmark toolbar
   </body>
 </html>
